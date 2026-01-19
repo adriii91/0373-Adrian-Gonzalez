@@ -37,7 +37,7 @@ a:focus, button:focus {
 
 /* Header */
 .header {
-    background: #1e293b;
+    background: #1b64d9;
     color: white;
     padding: 2rem 0;
     text-align: center;
@@ -302,7 +302,8 @@ body {
   margin-top: 1rem;
 }
 body {
-  background-color: #e0f2fe; /* azul claro */
+  background-color: #e0f2fe; 
+}
 .section {
   border-radius: 12px;
 }
