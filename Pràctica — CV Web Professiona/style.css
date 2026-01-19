@@ -301,4 +301,7 @@ body {
 .main-content {
   margin-top: 1rem;
 }
+body {
+  background-color: #e0f2fe; /* azul claro */
+}
 
