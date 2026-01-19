@@ -303,5 +303,7 @@ body {
 }
 body {
   background-color: #e0f2fe; /* azul claro */
+.section {
+  border-radius: 12px;
 }
 
