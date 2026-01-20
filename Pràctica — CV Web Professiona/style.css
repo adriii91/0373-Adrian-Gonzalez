@@ -134,8 +134,9 @@ main {
 }
 
 .card h3 {
-    color: var(--primary);
-    margin-bottom: 0.5rem;
+    color: #475569;
+    margin-bottom: 0.75rem;
+    font-size: 1.3rem;
 }
 
 .links {
