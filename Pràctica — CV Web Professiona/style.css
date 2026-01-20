@@ -86,7 +86,7 @@ a:focus, button:focus {
 }
 
 .contact a:hover {
-    color: #3b82f6;
+    color: #475569;
 }
 
 /* Main */
@@ -129,8 +129,8 @@ main {
 }
 
 .card:hover {
-    transform: translateX(5px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateX(8px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
 }
 
 .card h3 {
