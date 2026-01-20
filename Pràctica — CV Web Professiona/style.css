@@ -37,10 +37,11 @@ a:focus, button:focus {
 
 /* Header */
 .header {
-    background: #1b64d9;
+   background: #1b64d9;
     color: white;
-    padding: 2rem 0;
+    padding: 2.5rem 0;
     text-align: center;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
 .profile-photo {
