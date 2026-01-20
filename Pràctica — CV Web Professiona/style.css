@@ -43,6 +43,12 @@ a:focus, button:focus {
     text-align: center;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
+.header h1 {
+    font-size: 2rem;
+    margin-top: 1rem;
+    font-weight: 700;
+}
+
 
 .profile-photo {
     width: 120px;
