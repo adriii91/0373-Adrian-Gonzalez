@@ -73,8 +73,9 @@ a:focus, button:focus {
 .contact {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.75rem;
     align-items: center;
+    margin-top: 1rem;
 }
 
 .contact a {
