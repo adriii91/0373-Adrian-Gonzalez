@@ -91,7 +91,7 @@ a:focus, button:focus {
 
 /* Main */
 main {
-    padding: 2rem 0;
+    padding: 2.5rem 0;
 }
 
 .section {
@@ -309,7 +309,7 @@ body {
   }
 }
 .main-content {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 body {
   background-color: #e0f2fe; 
