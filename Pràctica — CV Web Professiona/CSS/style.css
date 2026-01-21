@@ -135,10 +135,8 @@ main {
 
 
 .skills {
-    background: #f9fafb;
     padding: 2rem;
     border-radius: 20px;
-    border: 3px solid #d1d5db;
     display: flex;
     flex-direction: column;
     gap: 1rem;
