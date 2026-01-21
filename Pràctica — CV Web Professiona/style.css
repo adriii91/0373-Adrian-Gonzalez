@@ -127,8 +127,8 @@ main {
 }
 
 .card:hover {
-    transform: translateX(8px);
-    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    transform: rotate(0deg) scale(1.05);
+    box-shadow: 0 12px 30px rgba(75, 85, 99, 0.4);
 }
 
 .card h3 {
