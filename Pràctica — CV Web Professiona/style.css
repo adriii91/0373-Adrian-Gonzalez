@@ -66,11 +66,10 @@ a:focus, button:focus {
 }
 
 .contact {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-    align-items: center;
-    margin-top: 1rem;
+    background: rgba(255,255,255,0.1);
+    padding: 1rem 2rem;
+    border-radius: 25px;
+    backdrop-filter: blur(10px);
 }
 
 .contact a {
