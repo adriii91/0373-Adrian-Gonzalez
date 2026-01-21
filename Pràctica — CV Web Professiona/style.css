@@ -134,7 +134,7 @@ main {
     color: #1f2937;
     text-transform: uppercase;
     border-bottom: 3px solid #9ca3af;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.5rem; 
 }
 
 .links {
@@ -159,8 +159,10 @@ main {
 
 /* Habilitats */
 .skills {
-    display: grid;
-    gap: 1.5rem;
+    background: #f9fafb;
+    padding: 2rem;
+    border-radius: 20px;
+    border: 3px solid #d1d5db;
 }
 
 .skills ul {
