@@ -104,6 +104,11 @@ main {
     letter-spacing: 2px;
    
 }
+.section p {
+    font-size: 1.1rem;
+    text-align: justify;
+    text-indent: 2rem;
+}
 
 /* Pseudo-element obligatori */
 .section h2::before {
@@ -317,8 +322,5 @@ body {
 }
 body {
   background-color: #e0f2fe; 
-}
-.section {
-  border-radius: 12px;
 }
 
