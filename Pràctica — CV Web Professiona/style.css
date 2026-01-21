@@ -92,11 +92,10 @@ main {
 }
 
 .section {
-    background: var(--card);
-    padding: 1.5rem;
-    margin-bottom: 2rem;
-    border-radius: 8px;
-    border: 1px solid var(--border);
+    background: linear-gradient(145deg, #ffffff 0%, #f3f4f6 100%);
+    border-left: 6px solid #6b7280;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
 .section h2 {
