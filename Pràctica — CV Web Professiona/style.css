@@ -242,8 +242,7 @@ footer {
 /* ===== ESTILOS MÓVIL (por defecto) ===== */
 
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #6b7280 0%, #374151 100%);
 }
 
 .container {
