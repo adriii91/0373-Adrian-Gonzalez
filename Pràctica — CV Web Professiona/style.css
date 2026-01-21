@@ -200,11 +200,10 @@ main {
 
 
 footer {
-    background: #1355be;
-    color: white;
-    text-align: center;
-    padding: 1.5rem;
-    margin-top: 2rem;
+     background: linear-gradient(180deg, #111827 0%, #1f2937 100%);
+    padding: 2.5rem;
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -5px 20px rgba(0,0,0,0.3);
 }
 
 
@@ -317,9 +316,7 @@ body {
     width: 80%;
   }
 }
-.main-content {
-  margin-top: 1.5rem;
-}
+
 body {
   background-color: #e0f2fe; 
 }
