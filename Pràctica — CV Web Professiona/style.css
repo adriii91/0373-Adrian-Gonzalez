@@ -49,13 +49,10 @@ a:focus, button:focus {
 
 
 .profile-photo {
-    width: 130px;
-    height: 130px;
-    border-radius: 50%;
-    border: 5px solid white;
-    object-fit: cover;
-    transition: transform 0.3s;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+     width: 150px;
+    height: 150px;
+    border: 6px solid #9ca3af;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
 }
 
 .profile-photo:hover {
