@@ -120,12 +120,10 @@ main {
 
 /* Projectes */
 .card {
-    background: var(--bg);
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
-    border-left: 4px solid var(--primary);
-    transition: transform 0.3s, box-shadow 0.3s;
+    background: linear-gradient(135deg, #e5e7eb 0%, #d1d5db 100%);
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(107, 114, 128, 0.3);
 }
 
 .card:hover {
