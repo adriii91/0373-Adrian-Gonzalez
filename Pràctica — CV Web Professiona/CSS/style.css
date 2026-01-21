@@ -15,7 +15,7 @@
 
 
 body {
-    font-family: system-ui, sans-serif;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     background: linear-gradient(135deg, #6b7280 0%, #374151 100%);
     color: var(--text-dark);
